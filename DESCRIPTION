@@ -2,7 +2,7 @@ Package: rtiff
 Type: Package
 Title: Read and Write TIFF Files
 Version: 1.4.6
-Date: 2015-07-15
+Date: 2018-03-20
 Depends: pixmap
 Author: Eric Kort <eric.kort@vai.org>
 Maintainer: Eric Kort <eric.kort@vai.org>
